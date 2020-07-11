@@ -1,0 +1,124 @@
+.profile {
+    width: 50px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.nav-item-prof :hover {
+}
+
+.nav-item-requests :hover {
+    font-weight: bold;
+}
+.nav-item-other :hover {
+    font-weight: bold;
+}
+
+.nav-item-requests {
+    margin-right: 20px;
+    width: 100px;
+}
+
+.profile-dropdown {
+    width: 20px;
+    margin-left: -10px;
+}
+
+.profile-logout {
+    width: 20px;
+    margin-left: -10px;
+}
+
+.big-box {
+    opacity: 80%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+    width: 90%;
+    margin: auto;
+    height: 800px;
+    
+}
+
+.page-title {
+    
+    height: 110px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #b5b5b0;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.title {
+    font-size: xx-large;
+    font: bold;
+}
+
+.credentials {
+    text-align: left;
+     margin-left: 40px;
+
+}
+
+.reason {
+    font-size: x-large;
+    width: 90%;
+    text-align: left;
+    margin: auto;
+    font-weight: bold;
+}
+
+.reason-box {
+    margin: auto;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.reason-input {
+}
+
+.button1 {
+    height: 25px;
+    margin-left: 127px;
+}
+
+.button2 {
+    height: 25px;
+    margin-left: 87px;
+}
+
+.button3 {
+    height: 25px;
+    margin-left: 127px;
+}
+.button4 {
+    height: 25px;
+    margin-left: 22px;
+}
+
+.sub-button {
+    
+    text-align: center;
+    margin-top: 20px;
+}
+
+.sub-button :hover{
+    font-weight: bold;
+    border-radius: 10px;
+    background: none;
+    
+}
+
+.submit {
+    background: #3fbb78;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+}
+
+
+
+@media (max-width:457px) {
+    
+  }
